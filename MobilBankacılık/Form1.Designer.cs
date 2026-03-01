@@ -103,7 +103,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Red;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(713, 471);
+            this.ClientSize = new System.Drawing.Size(657, 471);
             this.Controls.Add(this.btnKayıtOl);
             this.Controls.Add(this.TxtBoxSifreGiris);
             this.Controls.Add(this.LblSifre);
