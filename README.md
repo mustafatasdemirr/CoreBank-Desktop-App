@@ -1,44 +1,68 @@
-# 🏦 CoreBank - Masaüstü Bankacılık Yönetim Sistemi
+# 🏦 CoreBank - Gelişmiş Masaüstü Bankacılık Simülasyonu
 
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Framework 4.7.2](https://img.shields.io/badge/.NET%20Framework-4.7.2-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET-Data%20Access-blue)
 
-Mobil bankacılık deneyimini masaüstü platforma taşıyan, kullanıcıların temel finansal işlemlerini güvenle yönetebildiği, veritabanı destekli (MSSQL) kapsamlı bir finansal simülasyon uygulamasıdır. Kullanıcı dostu arayüzü ile gerçek dünyadaki bankacılık mantığını yazılıma aktarmayı hedeflemektedir.
+**CoreBank**, C# Windows Forms ve MSSQL kullanılarak sıfırdan geliştirilmiş, gerçek dünya bankacılık süreçlerini simüle eden kapsamlı bir masaüstü uygulamasıdır. 
+
+Bu proje, yalnızca basit bir kullanıcı arayüzü tasarımı değil; arka planda çalışan bakiye kontrolleri, hesaplar arası tutarlı transfer mantığı ve detaylı loglama mekanizmalarıyla tam teşekküllü bir finansal altyapı sunmayı hedeflemektedir.
 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="45%">
+      <td align="center" width="50%">
         <img src="Images/login.png" alt="CoreBank Giriş Ekranı" width="100%"><br>
-        <em>Güvenli Giriş Ekranı</em>
+        <em>Güvenli Giriş ve Kayıt Modülü</em>
       </td>
-      <td align="center" width="55%">
+      <td align="center" width="50%">
         <img src="Images/dashboard.png" alt="CoreBank Ana Sayfa" width="100%"><br>
-        <em>Kullanıcı Paneli ve Özellikler</em>
+        <em>Kullanıcı Paneli ve Dinamik Menü</em>
       </td>
     </tr>
   </table>
 </div>
 
-## 🚀 Öne Çıkan Özellikler
+## 🚀 Detaylı Sistem Özellikleri
 
-* **🔐 Kullanıcı Doğrulama:** TC Kimlik No ve şifre ile güvenli giriş ve yeni müşteri kayıt sistemi.
-* **💼 Hesap Yönetimi:** Vadesiz TL, Vadeli TL, Dolar ve Altın hesapları oluşturabilme.
-* **💸 Para Transferleri:** Alıcı IBAN, Ad-Soyad eşleşmesi ve açıklama ile detaylı para transferi.
-* **💳 Kart ve Ödeme İşlemleri:** Kredi/Banka kartı yönetimi ve kurumsal fatura ödemeleri.
-* **💱 Döviz ve Altın İşlemleri:** Güncel kur üzerinden simüle edilmiş Dolar ve Gram Altın alım-satım işlemleri.
-* **📊 Hesap Özeti:** Tüm hesap hareketlerini tek ekranda listeleyebilme.
+### 👤 Müşteri ve Hesap Yönetimi
+* **Kimlik Doğrulama:** TC Kimlik Numarası ve şifre ile güvenli giriş. Yeni müşteriler için sisteme kayıt modülü.
+* **Çoklu Hesap Desteği:** Tek bir müşteriye bağlı bağımsız Vadesiz TL, Vadeli TL, Dolar ve Altın hesapları tanımlayabilme.
+* **Bakiye ve Güvenlik Kontrolü:** Tüm işlemlerde anlık bakiye yetersizlik kontrolü ve hata yönetimi (Exception Handling).
 
-## 🛠️ Kullanılan Teknolojiler
+### 💸 Finansal İşlemler
+* **EFT/Havale Simülasyonu:** Alıcı IBAN, Ad-Soyad doğrulaması ve açıklama ekleyerek hesaplar arası tutarlı para transferi.
+* **Fatura ve Kurum Ödemeleri:** İnternet, elektrik, su ve dijital platform (Netflix vb.) ödemelerinin gerçekleştirilip ana bakiyeden anında düşülmesi.
 
-* **Geliştirme Ortamı:** Visual Studio
-* **Programlama Dili:** C# (Windows Forms)
-* **Veritabanı:** Microsoft SQL Server (MSSQL)
-* **Veri Erişimi:** ADO.NET (SqlDataReader, SqlCommand)
+### 💱 Yatırım ve Emtia Piyasası
+* **Döviz İşlemleri:** Güncel kurlar üzerinden hesaplanarak TL hesabından Dolar (USD) alma veya Dolardan TL'ye dönme.
+* **Altın İşlemleri:** Gram bazında altın alım-satımı ve anlık portföy yansıması.
 
-## ⚙️ Kurulum ve Çalıştırma
+### 💳 Kart Servisleri ve Raporlama
+* **Kart Oluşturma:** Kullanıcıya özel Kredi Kartı veya Banka Kartı tanımlama, limit belirleme ve CVV ataması.
+* **Hesap Özeti (Loglama Sistemi):** Kullanıcının yaptığı tüm transferlerin, kurum ödemelerinin ve döviz işlemlerinin veritabanına kaydedilmesi ve tek bir panelde listelenmesi.
 
-1. Repoyu klonlayın:
+## 🛠️ Teknik Mimari ve Veritabanı Tasarımı
+
+Proje, verilerin güvenliğini ve tutarlılığını sağlamak için **ADO.NET** kullanılarak MSSQL'e bağlanmaktadır. SQL sorgularında ilişkisel veritabanı (Relational Database) mantığı benimsenmiştir.
+
+* **Kullanılan Teknolojiler:** C#, Windows Forms, MSSQL, ADO.NET (SqlDataReader, SqlCommand).
+* **Veritabanı Yapısı:** Sistemde Müşteriler, Hesaplar, Kartlar ve İşlem Geçmişi (Hareketler) için ayrı ve birbirleriyle (Primary Key / Foreign Key) bağlantılı tablolar yer almaktadır.
+
+## ⚙️ Kurulum ve Geliştirici Rehberi
+
+Projeyi kendi bilgisayarınızda derlemek ve test etmek için:
+
+1. **Repoyu Klonlayın:**
    ```bash
    git clone [https://github.com/mustafatasdemirr/CoreBank-Desktop-App.git](https://github.com/mustafatasdemirr/CoreBank-Desktop-App.git)
+2. **Veritabanını Hazırlayın:**
+   * SQL Server Management Studio (SSMS) programını açın.
+   * Proje dizininde bulunan `BankDatabase.sql` dosyasını SSMS üzerinde çalıştırarak gerekli tabloları ve örnek verileri otomatik oluşturun.
+
+3. **Bağlantı Ayarlarını Yapın:**
+   * Visual Studio'da projeyi açın.
+   * Projedeki SQL bağlantı dizesini (`Data Source=...`) kendi yerel SQL Server adınıza göre güncelleyin.
+
+4. **Çalıştırın:** * Çözümü (Solution) derleyip projeyi başlatın.
