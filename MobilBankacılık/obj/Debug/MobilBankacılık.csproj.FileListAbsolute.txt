@@ -1,0 +1,144 @@
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.AssemblyReference.cache
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form1.resources
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form2.resources
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Properties.Resources.resources
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.GenerateResource.cache
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.CoreCompileInputs.cache
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe.config
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.pdb
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.exe
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.pdb
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AnaSayfa.resources
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOluştur.resources
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Hesaplar.resources
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.ParaTransferi.resources
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.KartOlustur.resources
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Odemeler.resources
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOzeti.resources
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltınAl.resources
+C:\Users\erenp\source\repos\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltinSat.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe.config
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.pdb
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.AssemblyReference.cache
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltınAl.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltinSat.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AnaSayfa.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form1.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form2.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Hesaplar.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOluştur.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOzeti.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.KartOlustur.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Odemeler.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.ParaTransferi.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Properties.Resources.resources
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.GenerateResource.cache
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.CoreCompileInputs.cache
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.exe
+C:\Users\emiri\OneDrive\Masaüstü\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.pdb
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe.config
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.pdb
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.AssemblyReference.cache
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.exe.config
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltınAl.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltinSat.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AnaSayfa.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form1.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form2.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Hesaplar.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOluştur.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOzeti.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.KartOlustur.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Odemeler.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.ParaTransferi.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Properties.Resources.resources
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.GenerateResource.cache
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.CoreCompileInputs.cache
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.exe
+C:\Users\emiri\OneDrive\Masaüstü\SINIF 4.1\Veritabanı Yönetim Sistemleri\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.pdb
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe.config
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.pdb
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.AssemblyReference.cache
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltınAl.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltinSat.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AnaSayfa.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form1.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form2.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Hesaplar.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOluştur.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOzeti.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.KartOlustur.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Odemeler.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.ParaTransferi.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Properties.Resources.resources
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.GenerateResource.cache
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.CoreCompileInputs.cache
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.exe
+C:\Users\Casper\Desktop\Yeni Sıkıştırılmış Klasör-20251224T165736Z-1-001\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.pdb
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe.config
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.pdb
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltınAl.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltinSat.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AnaSayfa.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form1.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form2.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Hesaplar.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOluştur.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOzeti.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.KartOlustur.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Odemeler.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.ParaTransferi.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Properties.Resources.resources
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.exe
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.pdb
+C:\Users\Hp\Desktop\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.exe.config
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe.config
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.pdb
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.exe.config
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltınAl.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltinSat.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AnaSayfa.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form1.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form2.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Hesaplar.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOluştur.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOzeti.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.KartOlustur.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Odemeler.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.ParaTransferi.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Properties.Resources.resources
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.exe
+C:\Users\Hp\Desktop\DeskTop\dataBase\Veritabanı Dönem Projesi\Yeni Sıkıştırılmış Klasör\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.pdb
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe.config
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.exe
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\bin\Debug\MobilBankacılık.pdb
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.exe.config
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltınAl.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AltinSat.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.AnaSayfa.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form1.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Form2.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Hesaplar.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOluştur.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.HesapOzeti.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.KartOlustur.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Odemeler.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.ParaTransferi.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.Properties.Resources.resources
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.exe
+C:\Users\Hp\Desktop\MobilBankacılık\MobilBankacılık\obj\Debug\MobilBankacılık.pdb
