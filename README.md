@@ -50,7 +50,7 @@ Proje, verilerin güvenliğini ve tutarlılığını sağlamak için **ADO.NET**
 * **Kullanılan Teknolojiler:** C#, Windows Forms, MSSQL, ADO.NET (SqlDataReader, SqlCommand).
 * **Veritabanı Yapısı:** Sistemde Müşteriler, Hesaplar, Kartlar ve İşlem Geçmişi (Hareketler) için ayrı ve birbirleriyle (Primary Key / Foreign Key) bağlantılı tablolar yer almaktadır.
 
-## ⚙️ Kurulum ve Geliştirici Rehberi
+## ⚙️ Kurulum ve Çalıştırma Rehberi
 
 Projeyi kendi bilgisayarınızda derlemek ve test etmek için:
 
