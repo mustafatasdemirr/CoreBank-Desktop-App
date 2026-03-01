@@ -65,4 +65,4 @@ Projeyi kendi bilgisayarınızda derlemek ve test etmek için:
    * Visual Studio'da projeyi açın.
    * Projedeki SQL bağlantı dizesini (`Data Source=...`) kendi yerel SQL Server adınıza göre güncelleyin.
 
-4. **Çalıştırın:** * Çözümü (Solution) derleyip projeyi başlatın.
+4. **Çalıştırın:** Çözümü (Solution) derleyip projeyi başlatın.
